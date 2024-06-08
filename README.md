@@ -52,6 +52,5 @@ The goal of this project is to analyze the Google Play Store Apps dataset to der
 * Family and Games are the top categories with the most apps.
 * Personalization and Games are the top two categories with the highest ratings.
 * Games and Communication emerge as the two leading categories with the highest number of installations.
-## Thank You Note
-Thank you for reading! For more interesting insights, check the SQL and Power BI files. Feel free to explore and analyze the data further.
+
 
